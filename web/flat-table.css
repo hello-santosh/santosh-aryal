@@ -1,0 +1,23 @@
+.flat-table {
+    alignment-adjust: middle;
+  display: block;
+  font-family: sans-serif;
+  font-size: 90%;
+  overflow: auto;
+  
+  
+}
+.flat-table th {
+  background-color: #70c469;
+  color: white;
+  font-weight: normal;
+  padding: 15px 25px;
+  text-align: center;
+}
+.flat-table td {
+     
+    
+  background-color: #eeeeee;
+  color: #6f6f6f;
+  padding: 15px 25px;
+}
